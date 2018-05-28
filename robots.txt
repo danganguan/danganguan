@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://danganguan.github.io/sitemap.xml
